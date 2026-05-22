@@ -4,5 +4,7 @@
   { "name": "Transformada_Fourier", "file": "notebooks/2235004_8_Shared_Transformada_Fourier.ipynb" },
   { "name": "Filtrando_Ruido",  "file": "notebooks/2235004_9_Shared_FiltrandoRuido.ipynb"  },
   { "name": "Ecualizacion_Histograma",  "file": "notebooks/2235004_EcualizacionHistograma.ipynb"  },
-  { "name": "Transformaciones_Vecindario_NoLineales",  "file": "notebooks/(2230054)_6_Shared_Transformaciones_Vecindario_NoLineales.ipynb"  }
+  { "name": "Transformaciones_Vecindario_NoLineales",  "file": "notebooks/(2230054)_6_Shared_Transformaciones_Vecindario_NoLineales.ipynb"  },
+  { "name": "Transformaciones_Pixel",  "file": "notebooks/Transformaciones_Pixel.ipynb"  },
+  { "name": "Convolution",  "file": "notebooks/Convolution.ipynb"  }
 ]
